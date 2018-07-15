@@ -21,7 +21,7 @@ nights = gets.chomp.capitalize
 
 stay = "California"
 eat = "pizza"
-nights = "3"
+nights = "4"
 
 puts "I would like to stay at #{stay}"
 puts "I would like to eat #{eat}"
