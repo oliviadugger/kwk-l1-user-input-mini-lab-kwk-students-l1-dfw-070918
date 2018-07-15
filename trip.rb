@@ -19,7 +19,7 @@ nights = gets.chomp.capitalize
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-stay = "Dallas"
+stay = "California"
 eats = "pizza"
 nights = "3"
 
